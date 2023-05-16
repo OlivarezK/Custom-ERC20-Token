@@ -33,7 +33,7 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the contract is deployed, you can interact with it by entering inputs and calling the variables or functions in the sidebar. You can interact with them by simply clicking the buttons with the variable names or with the "transact" button for functions. It is recommended to click on the dropdown icons to make it easier to enter inputs:
 
-![image](https://github.com/OlivarezK/Custom-ERC20-Token/assets/72584770/7700fd4b-d758-44d5-904d-395129d62996)
+![image](https://github.com/OlivarezK/Custom-ERC20-Token/assets/72584770/e74f968e-a42b-4f40-9f2c-e48c14af9214)
 
 For functions that require an address as an input, you can copy one from the samples provided by Remix under the "ACCOUNT" dropdown which can be found in the left-hand sidebar as well:
 
